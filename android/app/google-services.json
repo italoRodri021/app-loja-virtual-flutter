@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "86568485714",
+    "project_id": "loja-vitual-flutter-52c3d",
+    "storage_bucket": "loja-vitual-flutter-52c3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86568485714:android:b81e9fdced52114062f08b",
+        "android_client_info": {
+          "package_name": "com.italo.lojavirtual.loja_virtual_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86568485714-atq9utobget6aql93ft3j9198n5ae7d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.italo.lojavirtual.loja_virtual_flutter",
+            "certificate_hash": "c9b7e4f3f5177cfd28860147dd0543de78ffd714"
+          }
+        },
+        {
+          "client_id": "86568485714-qb885nd34grrjnhgqi56bbsona3khr04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvzS5BCVYmTf-GpfOVTYII0hndmjFYBXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86568485714-qb885nd34grrjnhgqi56bbsona3khr04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
