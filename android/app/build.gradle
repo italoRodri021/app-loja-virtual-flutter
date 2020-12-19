@@ -50,6 +50,9 @@ android {
     }
 }
 
+apply plugin: 'com.google.gms.google-services'
+apply plugin: 'com.android.application'
+
 flutter {
     source '../..'
 }
